@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CommentViewController viewDidLoad]:CommentViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_postDic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PrizesViewController viewDidLoad]:PrizesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentUser[@&quot;admin&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController tableView:cellForRowAtIndexPath:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "leftImageFile.url">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "components.hour">
+            </PersistentString>
+            <PersistentString
+               value = "components.day">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LeftMenuViewController loginWithFacebookAction:]:LeftMenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileViewController refreshSelfPosts]:ProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Utils getFirstDayOfYear]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeCategoryTableViewCell updateRemainTime]:HomeCategoryTableViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "components.day">
+            </PersistentString>
+            <PersistentString
+               value = "[Utils getLastDayOfMonth]">
+            </PersistentString>
+            <PersistentString
+               value = "components.hour">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ImportInsideTableViewController resizeImage:withMaxDimension:]:ImportInsideTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.size">
+            </PersistentString>
+            <PersistentString
+               value = "newImage.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LeftMenuViewController viewWillAppear:]:LeftMenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentUser[@&quot;gender&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "[currentUser[@&quot;gender&quot;] capitalizedString]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LeftMenuViewController filterForSearchText:]:LeftMenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController getWinnerOfLastMonth]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Utils getFirstDayOfPrevMonth]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FacebookImagePicker collectionView:cellForItemAtIndexPath:]:FacebookImagePicker.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "imgView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController tableView:numberOfRowsInSection:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ceil(([postDataArray count]+1)/3.0f)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Utils getLastDayOfMonth]:Utils.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[gregorian dateFromComponents:components] dateByAddingTimeInterval:-1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate application:openURL:sourceApplication:annotation:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[FBSession activeSession]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileViewController commentPost:]:ProfileViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SettingsViewController prepareForSegue:sender:]:SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FacebookImagePicker collectionView:didSelectItemAtIndexPath:]:FacebookImagePicker.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[Utils getIndexOfMissMonth:object:]:Utils.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "user1.objectId">
+            </PersistentString>
+            <PersistentString
+               value = "[object[@&quot;user&quot;][@&quot;objectId&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "model.post[@&quot;user&quot;][@&quot;objectId&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "user2.objectId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CommentViewController tableView:numberOfRowsInSection:]:CommentViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "commentDataArray.count + 1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

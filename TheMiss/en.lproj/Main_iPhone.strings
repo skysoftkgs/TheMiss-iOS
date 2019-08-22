@@ -1,0 +1,612 @@
+
+/* Class = "IBUIButton"; normalTitle = "FAQ"; ObjectID = "0cH-K3-qb1"; */
+"0cH-K3-qb1.normalTitle" = "FAQ";
+
+/* Class = "IBUILabel"; text = "User Test"; ObjectID = "0n5-pc-oyo"; */
+"0n5-pc-oyo.text" = "User Test";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "0vz-Vr-Q5H"; */
+"0vz-Vr-Q5H.text" = "192";
+
+/* Class = "IBUILabel"; text = "Add social network"; ObjectID = "0yB-zy-0FM"; */
+"0yB-zy-0FM.text" = "Add social network";
+
+/* Class = "IBUIButton"; normalTitle = "English"; ObjectID = "1EJ-oc-eGy"; */
+"1EJ-oc-eGy.normalTitle" = "English";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "1wR-mi-3Xj"; */
+"1wR-mi-3Xj.text" = "192";
+
+/* Class = "IBUILabel"; text = "389"; ObjectID = "260-kC-ncV"; */
+"260-kC-ncV.text" = "389";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "2Rh-n4-ALH"; */
+"2Rh-n4-ALH.placeholder" = "Email";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "2Xr-CI-WYU"; */
+"2Xr-CI-WYU.text" = "0";
+
+/* Class = "IBUILabel"; text = "FOLLOWED"; ObjectID = "2av-9N-p23"; */
+"2av-9N-p23.text" = "FOLLOWED";
+
+/* Class = "IBUIButton"; normalTitle = "Login with Facebook"; ObjectID = "2bV-GD-OrM"; */
+"2bV-GD-OrM.normalTitle" = "Login with Facebook";
+
+/* Class = "IBUILabel"; text = "345"; ObjectID = "30z-V7-Ahs"; */
+"30z-V7-Ahs.text" = "345";
+
+/* Class = "IBUILabel"; text = "Condividi"; ObjectID = "3G3-LJ-bQv"; */
+"3G3-LJ-bQv.text" = "Condividi";
+
+/* Class = "IBUIButton"; normalTitle = "Login with Facebook"; ObjectID = "49n-l8-WFX"; */
+"49n-l8-WFX.normalTitle" = "Login with Facebook";
+
+/* Class = "IBUILabel"; text = "Facebook Friends"; ObjectID = "4Lo-DJ-VQ5"; */
+"4Lo-DJ-VQ5.text" = "Facebook Friends";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot Password"; ObjectID = "4gy-8o-Lt3"; */
+"4gy-8o-Lt3.normalTitle" = "Forgot Password";
+
+/* Class = "IBUILabel"; text = "If you are a male"; ObjectID = "4tb-Wg-svc"; */
+"4tb-Wg-svc.text" = "If you are a male";
+
+/* Class = "IBUILabel"; text = "Roberta Blaine"; ObjectID = "4wU-TK-jIc"; */
+"4wU-TK-jIc.text" = "Roberta Blaine";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "4xl-uo-1lL"; */
+"4xl-uo-1lL.text" = "192";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "5FY-Yd-PWt"; */
+"5FY-Yd-PWt.text" = "0";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "5fi-8f-3uj"; */
+"5fi-8f-3uj.text" = "1";
+
+/* Class = "IBUITextField"; placeholder = "E-mail"; ObjectID = "6bD-1e-AeZ"; */
+"6bD-1e-AeZ.placeholder" = "E-mail";
+
+/* Class = "IBUILabel"; text = "Flagged Pictures"; ObjectID = "6bQ-hh-X8c"; */
+"6bQ-hh-X8c.text" = "Flagged Pictures";
+
+/* Class = "IBUILabel"; text = "230"; ObjectID = "6ed-aZ-kJe"; */
+"6ed-aZ-kJe.text" = "230";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "7Ev-6s-IAd"; */
+"7Ev-6s-IAd.text" = "192";
+
+/* Class = "IBUIButton"; normalTitle = "Tutorial"; ObjectID = "7Fw-E7-7Uk"; */
+"7Fw-E7-7Uk.normalTitle" = "Tutorial";
+
+/* Class = "IBUILabel"; text = "Home"; ObjectID = "7yo-Lz-9mi"; */
+"7yo-Lz-9mi.text" = "Home";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "7zY-fx-Twf"; */
+"7zY-fx-Twf.normalTitle" = "Change";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "944-mj-QOV"; */
+"944-mj-QOV.text" = "0";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "991-0o-dGX"; */
+"991-0o-dGX.normalTitle" = "Button";
+
+/* Class = "IBUISearchBar"; placeholder = "Search"; ObjectID = "AZx-13-Ld7"; */
+"AZx-13-Ld7.placeholder" = "Search";
+
+/* Class = "IBUISearchBar"; AZx-13-Ld7.scopeButtonTitles[0] = "Title"; ObjectID = "AZx-13-Ld7"; */
+"AZx-13-Ld7.scopeButtonTitles[0]" = "Title";
+
+/* Class = "IBUISearchBar"; AZx-13-Ld7.scopeButtonTitles[1] = "Title"; ObjectID = "AZx-13-Ld7"; */
+"AZx-13-Ld7.scopeButtonTitles[1]" = "Title";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "AiV-Vw-UcF"; */
+"AiV-Vw-UcF.text" = "0";
+
+/* Class = "IBUIButton"; normalTitle = "Login with Facebook"; ObjectID = "BAu-4y-6kW"; */
+"BAu-4y-6kW.normalTitle" = "Login with Facebook";
+
+/* Class = "IBUIButton"; normalTitle = "LOGIN"; ObjectID = "Bo0-v2-5dD"; */
+"Bo0-v2-5dD.normalTitle" = "LOGIN";
+
+/* Class = "IBUILabel"; text = "23d 22h 45m"; ObjectID = "C7V-qa-zA5"; */
+"C7V-qa-zA5.text" = "23d 22h 45m";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "CLG-Na-qQz"; */
+"CLG-Na-qQz.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "3"; ObjectID = "CNW-GO-6SP"; */
+"CNW-GO-6SP.text" = "3";
+
+/* Class = "IBUILabel"; text = "Related articles"; ObjectID = "CRu-T8-kae"; */
+"CRu-T8-kae.text" = "Related articles";
+
+/* Class = "IBUIButton"; normalTitle = "SAVE"; ObjectID = "CU9-P3-57a"; */
+"CU9-P3-57a.normalTitle" = "SAVE";
+
+/* Class = "IBUILabel"; text = "Roberta Blaine"; ObjectID = "CUJ-lJ-Fj6"; */
+"CUJ-lJ-Fj6.text" = "Roberta Blaine";
+
+/* Class = "IBUILabel"; text = "Are you sure to\nlogout?"; ObjectID = "CWE-N1-DJ5"; */
+"CWE-N1-DJ5.text" = "Are you sure to\nlogout?";
+
+/* Class = "IBUIButton"; normalTitle = "Prizes"; ObjectID = "Cja-hS-TyW"; */
+"Cja-hS-TyW.normalTitle" = "Prizes";
+
+/* Class = "IBUIButton"; normalTitle = "Report a problem"; ObjectID = "Cju-6d-2lk"; */
+"Cju-6d-2lk.normalTitle" = "Report a problem";
+
+/* Class = "IBUILabel"; text = "345"; ObjectID = "D97-hN-Okf"; */
+"D97-hN-Okf.text" = "345";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "DGT-bS-j7U"; */
+"DGT-bS-j7U.text" = "192";
+
+/* Class = "IBUIButton"; normalTitle = "  Logout"; ObjectID = "DcL-tn-9zs"; */
+"DcL-tn-9zs.normalTitle" = "  Logout";
+
+/* Class = "IBUIButton"; normalTitle = "Prizes"; ObjectID = "Duc-Gs-5T4"; */
+"Duc-Gs-5T4.normalTitle" = "Prizes";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "ENS-hs-sa5"; */
+"ENS-hs-sa5.placeholder" = "Email";
+
+/* Class = "IBUILabel"; text = "FOLLOWERS"; ObjectID = "FjK-r4-kde"; */
+"FjK-r4-kde.text" = "FOLLOWERS";
+
+/* Class = "IBUILabel"; text = "Each month in this section you will find the prizes."; ObjectID = "GNC-nT-DRX"; */
+"GNC-nT-DRX.text" = "Each month in this section you will find the prizes.";
+
+/* Class = "IBUILabel"; text = "Comment"; ObjectID = "GOC-Sy-O0S"; */
+"GOC-Sy-O0S.text" = "Comment";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "GhV-YM-SJh"; */
+"GhV-YM-SJh.normalTitle" = "Delete";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "H3R-45-Vj8"; */
+"H3R-45-Vj8.placeholder" = "Password";
+
+/* Class = "IBUILabel"; text = "Cover"; ObjectID = "IMv-QX-tNb"; */
+"IMv-QX-tNb.text" = "Cover";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "INR-3E-eBW"; */
+"INR-3E-eBW.placeholder" = "Email";
+
+/* Class = "IBUILabel"; text = "Jun"; ObjectID = "IYm-t3-Y7l"; */
+"IYm-t3-Y7l.text" = "Jun";
+
+/* Class = "IBUITextField"; placeholder = "Mobile Number"; ObjectID = "IbT-K2-Pqa"; */
+"IbT-K2-Pqa.placeholder" = "Mobile Number";
+
+/* Class = "IBUITextField"; placeholder = "username"; ObjectID = "Id1-1d-rxa"; */
+"Id1-1d-rxa.placeholder" = "username";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "JKi-uk-agi"; */
+"JKi-uk-agi.text" = "192";
+
+/* Class = "IBUIButton"; normalTitle = "YES"; ObjectID = "K1u-xu-VuO"; */
+"K1u-xu-VuO.normalTitle" = "YES";
+
+/* Class = "IBUILabel"; text = "If you already have the prize, you can select another one of equal value."; ObjectID = "Kl6-Yu-WYg"; */
+"Kl6-Yu-WYg.text" = "If you already have the prize, you can select another one of equal value.";
+
+/* Class = "IBUIButton"; normalTitle = "I N V I T E"; ObjectID = "L4c-Jm-mdE"; */
+"L4c-Jm-mdE.normalTitle" = "I N V I T E";
+
+/* Class = "IBUIButton"; normalTitle = "Notification"; ObjectID = "L71-72-S9H"; */
+"L71-72-S9H.normalTitle" = "Notification";
+
+/* Class = "IBUILabel"; text = "The Miss is the social contest created in order to rebuild the fashion and show business, thanks to an innovative tool for the selection of participants.                                                              \nTHE SOCIAL CONTEST is COMPLETELY FREE OF CHARGE IN FULL, FROM THE PARTICIPATION TO THE POSSIBLE WIN OF WHATSOEVER AWARD.\n  \nNO PAYMENTS ARE NEEDED IN ORDER TO PARTICIPATE OR WIN THIS CONTEST.\n  \n1.1 The Miss is open to all female people, of any nationality, aged between 16 and 35 years old. No physical requirements related to size or height are requested for the participation. In order to apply for the contest, the applicants must have reached the age of 16 at the moment of the registration. \n  \n1.2 In order to participate as Miss, should a minor applicant complete the registration, The Miss assumes the full acknowledgment and the authorization of these terms and conditions from one of her parents or her legal guardian. Once the registration has been completed through Facebook, Instagram or by e-mail, the applicant to the contest guarantees the truthfulness of her data and personal information, excluding The Miss from any and every responsibility. Should the registration be made in the name and on behalf of a minor, it will be considered valid by The Miss, considering it as an act made directly by a parent or the legal guardian.\n \n1.3 Usernames diverging from the real name of the person are allowed, as long as they are not related to commercial purposes or they are not gross, slanderous and offensive. \n\nIt is strictly forbidden the use of temporary e-mail services as emailtemporanea.net, spaml.com, bigstring.com, dueprong.com, rppkm.com, dieciminutemail.com, spambox.us, maillinator.com, veryrealemail.com, mytrashmail.com, tempemail.net, tempinbox.com and similar, as they do not guarantee the duration of the mail account for at least thirty days. The subscription and the votes made through these services will be deemed null and cancelled.\n\n1.4 In any case, in order to participate to the activities related to the platform, at the moment of the registration each User must declare to be aged at least 16, to provide information responding to the truth and to explicitly accept all the terms and conditions stated in this Regulation, together with the possible changes amended by The Miss at any time. Therefore, all the Users of the websites are invited to periodically read this Regulation and to acknowledge any possible changes. This specification applies also to Male Users, who play an active role on themiss.tv in the regular use of the platform. “Male User” shall mean the male person who votes the Miss applicants and the photos he likes, shares them on the social networks and comments the pictures. Instead the maximum age only applies to the applicants to the contest.\n\n1.5 Considering the minimum age established to get access to the website, the User who breaches this minimum age excludes The Miss from any and every responsibility. This responsibility, indeed, should be understood as referred to the User that, at the moment of the registration, has provided reticent and untruthful information and/or data, therefore not in a verifiable manner by the Miss.\n\n1.6 In order to be able to get involved in the activities of the platform provided by the Miss, the User must enter the website www.themiss.tv, or download the app and enter through his/her own account on Facebook or on Instagram or through the registration form to be filled and sent by e-mail. Therefore the User, logging into one of these two social networks (Facebook and Instagram) or by e-mail, shall be able to vote, share, comment and invite. \n\n1.7 The Users registered with the platform can decide to eliminate their own account at any time using the key button “DISATTIVA ACCOUNT/REMOVE ACCOUNT” available in the website. Should the User decide to register again with The Miss, he/she must create a new account.\n\n1.8 Each User registered by e-mail is the only responsible for the control of his/her own password and for his/her own account. Should the User get informed of a misuse of his/her login credentials, from third parties, he/she must promptly change the password and report the fact to The Miss Staff.\n\n1.9 Once the login or the registration have been completed, the applicants to the contest shall be able to upload their own photos through Facebook and/or Instagram. Furthermore the pictures can be uploaded directly from their own computers, from the gallery of a smartphone or just taken. From that moment on the applicants will be able to start promoting themselves and their beauty, also inspired by the Tutorial uploaded in a dedicated section of the website. The pictures uploaded on The Miss website can be seen from all Users on the web. \n\n1.10 Pictures uploaded on the website must be taken by the applicant herself or by other third parties. In any case, professional photos are not allowed. Only selfies are considered valid. The applicant, for each picture, can follow the Photo Sampler guidelines uploaded in the dedicated section on the website. No amount limits are specified, as each applicant shall be able to upload as much photos as she wants.\n\n1.11 Each picture does not need to refer to a specific place. The applicants, indeed, can take their own pictures wherever they prefer. \n\n1.12 An indispensable element, instead, is related to the fact that each picture must be taken in order to exalt the girl’s beauty, together with her female typical path. \n\n1.13 For the purpose of safeguarding the truthfulness and the full transparency of the platform and of its activities, each applicant is required to show a paper, including her name and “The Miss”, at least in one of her photos. This way intends to assure the fair under way of the activities and to prevent any false accounts not responding to a  natural female person.\n\n1.14 Therefore the purpose of The Miss is to give the applicants the opportunity to be admired for their natural beauty and to facilitate the entrance of new faces in the fashion and show business, considering only the activities and the girl’s skills. \n\nThe applicants, indeed, will be evaluated only through the democratic system of the web votes. \n\nThe girls will be voted by the Users through the key button “Vota/Vote” placed on each photo published. Each photo uploaded by the applicant can be voted only once by the single User, considered as a single natural person. \n\nThe winner of the award “Miss of the Month” will be the girl that will obtain the highest number of votes in the current month. “The highest number of votes” shall mean all the votes expressed by each User on every photo uploaded by the applicant. Therefore the winner is the applicant, not the single photo.\n\n1.15 \"Month\" shall mean the period between the first and the last day of that month. However, for the purposes of the contest, it is not forbidden for the applicant, in order to compete to the award, to start uploading her pictures on any day of the month (at the beginning, half month, at the end of the month). The inspiring principle allowing this chance is meritocracy, an essential element promoted by The Miss.\n\n1.16 The applicant who will obtain the highest number of votes at the end of the month will win the award \"Miss of the Month\". The winner of this award will be entitled to receive the prize issued for that month.\n\n1.17 Each picture uploaded by the applicant can be voted, commented and shared on any platform. The more the photos are shared by the Users, the more opportunities the applicants have to become visible, to obtain the highest number of votes and to create their look on their own.\n\n1.18 Whatsoever the action may be (vote, comment or sharing) any comments  injuring whoever is using the web site are allowed. It is strictly forbidden to write obscene, slanderous, controversial, gross, outrageous and disrespectful comments, causing harm to the Users or to other third parties. In any case, it is strictly forbidden to publish pornographic material or any other contents aimed at offending the human dignity and exceeding the limits of decency and ethics.  \n\nIn order to protect the contents and the people involved in The Miss, should a picture fail to meet the requirements established by The Miss, the Staff will remove it using the key button “SEGNALA/FLAG IT”, available to all the Users. Once removed, the photo in question will not be visible anymore. In any case, it is strictly forbidden to introduce any contents not related to the purpose of the website www.themiss.tv, that is contents better known as SPAM. This will lead to the exclusion, without notice, from the platform.\n\n1.19  It is forbidden to introduce, in any manner and by any means, contents encouraging terrorist activities and/or behaviours likely to produce or to be considered as criminal actions. \n\nBehaviours liable to incite racial hatred and/or any kind of discrimination are forbidden. The Miss Staff will remove these behaviours, as strictly forbidden by this Regulation.\n\n1.20 It is strictly forbidden to introduce contents or materials liable to infringe intellectual property rights.\n\n1.21 Last but not least, the Users of the platforms are not allowed to introduce and/or to replay other parties’ pictures and/or videos without the consent of the owner/the person concerned. Whoever infringes these rules will be automatically removed from the platform without notice and with no obligation for The Miss Staff to justify it. The exclusion of an User from the website and from its regular activities will lead to the permanent elimination of his/her account and it will not be possible anymore to restore it. \n\n1.22 The introduction of false pictures, videos and data, together with the use of others’ image, is strictly forbidden by the law. Should these behaviours are identified, The Miss will denounce the fact to the appropriate authorities.\n\n1.23  The Miss specifies that in the website www.themiss.tv it is forbidden to save the pictures in the own computer, in order to better protect the contents and the copyrights belonging to the legitimate holders. In the end, The Miss does not accept any liability for any alternative tools and means allowing to save the pictures, as they are not directly manageable.\n\n1.24 However, The Miss has the right to use information and pictures uploaded on the platform, beyond space and time constraints, only for commercial and advertising purposes. In any case, the right to use them shall be exercised by The Miss exclusively for initiatives directly related to the website activities. \n\n1.25 Should the applicants and, in general, the Users accept this Regulation, they license The Miss to use, publish and/or move, at its own discretion and free of charge, the pictures uploaded in the platform to third parties and by any means. In particular, concerning the pictures, The Miss shall be able to manage their publication and their video-promotion, their dissemination through websites, the multimedia presentations, the publication on the Internet of the annual calendar and all the initiatives directly related to the contest. Finally remember that The Miss Staff does not accept any liability for any possible abuse of pictures uploaded in the website. \n\n1.26 In order to guarantee the fair underway of the contest, any possible irregularity identified by the Management of The Miss, concerning the truthfulness of the applicant and her pictures, will lead to the check of the votes obtained. Therefore all the Users of the platform are invited to avoid artifices and/or tricks in order to win the award, otherwise they will be automatically removed from the website. Each vote, indeed, must refer to a single person as a real natural person. \n\n1.27 The contest, to which the website themiss.tv is inspired, was created in order to expressly highlight each applicant’s skills. Therefore the award, given to the Miss who has obtained the highest number of votes during the month, represents and certifies the reward for her own value. \n\n1.28 The prize shall be sent to any destination told in private by the winner to The Miss Staff. Once the prize has been received, the Miss is expressly required to take a picture with this prize, in order to certify the truthfulness and the fair working of the platform.\n\n1.29 In order to obtain the prize, the winner must provide The Miss all pertinent data to send it, otherwise it will not be possible to receive it.\n\nThe registration and the participation to The Miss is conditional on the acceptance of this Regulation in full."; ObjectID = "LED-Ei-rOy"; */
+"LED-Ei-rOy.text" = "The Miss is the social contest created in order to rebuild the fashion and show business, thanks to an innovative tool for the selection of participants.                                                              \nTHE SOCIAL CONTEST is COMPLETELY FREE OF CHARGE IN FULL, FROM THE PARTICIPATION TO THE POSSIBLE WIN OF WHATSOEVER AWARD.\n  \nNO PAYMENTS ARE NEEDED IN ORDER TO PARTICIPATE OR WIN THIS CONTEST.\n  \n1.1 The Miss is open to all female people, of any nationality, aged between 16 and 35 years old. No physical requirements related to size or height are requested for the participation. In order to apply for the contest, the applicants must have reached the age of 16 at the moment of the registration. \n  \n1.2 In order to participate as Miss, should a minor applicant complete the registration, The Miss assumes the full acknowledgment and the authorization of these terms and conditions from one of her parents or her legal guardian. Once the registration has been completed through Facebook, Instagram or by e-mail, the applicant to the contest guarantees the truthfulness of her data and personal information, excluding The Miss from any and every responsibility. Should the registration be made in the name and on behalf of a minor, it will be considered valid by The Miss, considering it as an act made directly by a parent or the legal guardian.\n \n1.3 Usernames diverging from the real name of the person are allowed, as long as they are not related to commercial purposes or they are not gross, slanderous and offensive. \n\nIt is strictly forbidden the use of temporary e-mail services as emailtemporanea.net, spaml.com, bigstring.com, dueprong.com, rppkm.com, dieciminutemail.com, spambox.us, maillinator.com, veryrealemail.com, mytrashmail.com, tempemail.net, tempinbox.com and similar, as they do not guarantee the duration of the mail account for at least thirty days. The subscription and the votes made through these services will be deemed null and cancelled.\n\n1.4 In any case, in order to participate to the activities related to the platform, at the moment of the registration each User must declare to be aged at least 16, to provide information responding to the truth and to explicitly accept all the terms and conditions stated in this Regulation, together with the possible changes amended by The Miss at any time. Therefore, all the Users of the websites are invited to periodically read this Regulation and to acknowledge any possible changes. This specification applies also to Male Users, who play an active role on themiss.tv in the regular use of the platform. “Male User” shall mean the male person who votes the Miss applicants and the photos he likes, shares them on the social networks and comments the pictures. Instead the maximum age only applies to the applicants to the contest.\n\n1.5 Considering the minimum age established to get access to the website, the User who breaches this minimum age excludes The Miss from any and every responsibility. This responsibility, indeed, should be understood as referred to the User that, at the moment of the registration, has provided reticent and untruthful information and/or data, therefore not in a verifiable manner by the Miss.\n\n1.6 In order to be able to get involved in the activities of the platform provided by the Miss, the User must enter the website www.themiss.tv, or download the app and enter through his/her own account on Facebook or on Instagram or through the registration form to be filled and sent by e-mail. Therefore the User, logging into one of these two social networks (Facebook and Instagram) or by e-mail, shall be able to vote, share, comment and invite. \n\n1.7 The Users registered with the platform can decide to eliminate their own account at any time using the key button “DISATTIVA ACCOUNT/REMOVE ACCOUNT” available in the website. Should the User decide to register again with The Miss, he/she must create a new account.\n\n1.8 Each User registered by e-mail is the only responsible for the control of his/her own password and for his/her own account. Should the User get informed of a misuse of his/her login credentials, from third parties, he/she must promptly change the password and report the fact to The Miss Staff.\n\n1.9 Once the login or the registration have been completed, the applicants to the contest shall be able to upload their own photos through Facebook and/or Instagram. Furthermore the pictures can be uploaded directly from their own computers, from the gallery of a smartphone or just taken. From that moment on the applicants will be able to start promoting themselves and their beauty, also inspired by the Tutorial uploaded in a dedicated section of the website. The pictures uploaded on The Miss website can be seen from all Users on the web. \n\n1.10 Pictures uploaded on the website must be taken by the applicant herself or by other third parties. In any case, professional photos are not allowed. Only selfies are considered valid. The applicant, for each picture, can follow the Photo Sampler guidelines uploaded in the dedicated section on the website. No amount limits are specified, as each applicant shall be able to upload as much photos as she wants.\n\n1.11 Each picture does not need to refer to a specific place. The applicants, indeed, can take their own pictures wherever they prefer. \n\n1.12 An indispensable element, instead, is related to the fact that each picture must be taken in order to exalt the girl’s beauty, together with her female typical path. \n\n1.13 For the purpose of safeguarding the truthfulness and the full transparency of the platform and of its activities, each applicant is required to show a paper, including her name and “The Miss”, at least in one of her photos. This way intends to assure the fair under way of the activities and to prevent any false accounts not responding to a  natural female person.\n\n1.14 Therefore the purpose of The Miss is to give the applicants the opportunity to be admired for their natural beauty and to facilitate the entrance of new faces in the fashion and show business, considering only the activities and the girl’s skills. \n\nThe applicants, indeed, will be evaluated only through the democratic system of the web votes. \n\nThe girls will be voted by the Users through the key button “Vota/Vote” placed on each photo published. Each photo uploaded by the applicant can be voted only once by the single User, considered as a single natural person. \n\nThe winner of the award “Miss of the Month” will be the girl that will obtain the highest number of votes in the current month. “The highest number of votes” shall mean all the votes expressed by each User on every photo uploaded by the applicant. Therefore the winner is the applicant, not the single photo.\n\n1.15 \"Month\" shall mean the period between the first and the last day of that month. However, for the purposes of the contest, it is not forbidden for the applicant, in order to compete to the award, to start uploading her pictures on any day of the month (at the beginning, half month, at the end of the month). The inspiring principle allowing this chance is meritocracy, an essential element promoted by The Miss.\n\n1.16 The applicant who will obtain the highest number of votes at the end of the month will win the award \"Miss of the Month\". The winner of this award will be entitled to receive the prize issued for that month.\n\n1.17 Each picture uploaded by the applicant can be voted, commented and shared on any platform. The more the photos are shared by the Users, the more opportunities the applicants have to become visible, to obtain the highest number of votes and to create their look on their own.\n\n1.18 Whatsoever the action may be (vote, comment or sharing) any comments  injuring whoever is using the web site are allowed. It is strictly forbidden to write obscene, slanderous, controversial, gross, outrageous and disrespectful comments, causing harm to the Users or to other third parties. In any case, it is strictly forbidden to publish pornographic material or any other contents aimed at offending the human dignity and exceeding the limits of decency and ethics.  \n\nIn order to protect the contents and the people involved in The Miss, should a picture fail to meet the requirements established by The Miss, the Staff will remove it using the key button “SEGNALA/FLAG IT”, available to all the Users. Once removed, the photo in question will not be visible anymore. In any case, it is strictly forbidden to introduce any contents not related to the purpose of the website www.themiss.tv, that is contents better known as SPAM. This will lead to the exclusion, without notice, from the platform.\n\n1.19  It is forbidden to introduce, in any manner and by any means, contents encouraging terrorist activities and/or behaviours likely to produce or to be considered as criminal actions. \n\nBehaviours liable to incite racial hatred and/or any kind of discrimination are forbidden. The Miss Staff will remove these behaviours, as strictly forbidden by this Regulation.\n\n1.20 It is strictly forbidden to introduce contents or materials liable to infringe intellectual property rights.\n\n1.21 Last but not least, the Users of the platforms are not allowed to introduce and/or to replay other parties’ pictures and/or videos without the consent of the owner/the person concerned. Whoever infringes these rules will be automatically removed from the platform without notice and with no obligation for The Miss Staff to justify it. The exclusion of an User from the website and from its regular activities will lead to the permanent elimination of his/her account and it will not be possible anymore to restore it. \n\n1.22 The introduction of false pictures, videos and data, together with the use of others’ image, is strictly forbidden by the law. Should these behaviours are identified, The Miss will denounce the fact to the appropriate authorities.\n\n1.23  The Miss specifies that in the website www.themiss.tv it is forbidden to save the pictures in the own computer, in order to better protect the contents and the copyrights belonging to the legitimate holders. In the end, The Miss does not accept any liability for any alternative tools and means allowing to save the pictures, as they are not directly manageable.\n\n1.24 However, The Miss has the right to use information and pictures uploaded on the platform, beyond space and time constraints, only for commercial and advertising purposes. In any case, the right to use them shall be exercised by The Miss exclusively for initiatives directly related to the website activities. \n\n1.25 Should the applicants and, in general, the Users accept this Regulation, they license The Miss to use, publish and/or move, at its own discretion and free of charge, the pictures uploaded in the platform to third parties and by any means. In particular, concerning the pictures, The Miss shall be able to manage their publication and their video-promotion, their dissemination through websites, the multimedia presentations, the publication on the Internet of the annual calendar and all the initiatives directly related to the contest. Finally remember that The Miss Staff does not accept any liability for any possible abuse of pictures uploaded in the website. \n\n1.26 In order to guarantee the fair underway of the contest, any possible irregularity identified by the Management of The Miss, concerning the truthfulness of the applicant and her pictures, will lead to the check of the votes obtained. Therefore all the Users of the platform are invited to avoid artifices and/or tricks in order to win the award, otherwise they will be automatically removed from the website. Each vote, indeed, must refer to a single person as a real natural person. \n\n1.27 The contest, to which the website themiss.tv is inspired, was created in order to expressly highlight each applicant’s skills. Therefore the award, given to the Miss who has obtained the highest number of votes during the month, represents and certifies the reward for her own value. \n\n1.28 The prize shall be sent to any destination told in private by the winner to The Miss Staff. Once the prize has been received, the Miss is expressly required to take a picture with this prize, in order to certify the truthfulness and the fair working of the platform.\n\n1.29 In order to obtain the prize, the winner must provide The Miss all pertinent data to send it, otherwise it will not be possible to receive it.\n\nThe registration and the participation to The Miss is conditional on the acceptance of this Regulation in full.";
+
+/* Class = "IBUILabel"; text = "VOTED"; ObjectID = "LYX-GH-aWR"; */
+"LYX-GH-aWR.text" = "VOTED";
+
+/* Class = "IBUILabel"; text = "AND GET REWARDS!"; ObjectID = "Me6-Dn-SWQ"; */
+"Me6-Dn-SWQ.text" = "AND GET REWARDS!";
+
+/* Class = "IBUILabel"; text = "Related articles"; ObjectID = "Mr2-vF-ynd"; */
+"Mr2-vF-ynd.text" = "Related articles";
+
+/* Class = "IBUIButton"; normalTitle = "Comment"; ObjectID = "Nf5-if-hNq"; */
+"Nf5-if-hNq.normalTitle" = "Comment";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "OFd-X3-8vm"; */
+"OFd-X3-8vm.placeholder" = "Password";
+
+/* Class = "IBUILabel"; text = "Prizes"; ObjectID = "OTC-qP-fC7"; */
+"OTC-qP-fC7.text" = "Prizes";
+
+/* Class = "IBUILabel"; text = "Invite with Whatsapp"; ObjectID = "Ocz-vI-KeM"; */
+"Ocz-vI-KeM.text" = "Invite with Whatsapp";
+
+/* Class = "IBUILabel"; text = "Roberta Blaine"; ObjectID = "Ovz-FX-mJT"; */
+"Ovz-FX-mJT.text" = "Roberta Blaine";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "PO0-S6-49O"; */
+"PO0-S6-49O.placeholder" = "Password";
+
+/* Class = "IBUILabel"; text = "TheMiss contest has just started."; ObjectID = "PP6-S0-6zr"; */
+"PP6-S0-6zr.text" = "TheMiss contest has just started.";
+
+/* Class = "IBUILabel"; text = "PHOTOS"; ObjectID = "Q7r-3u-pw6"; */
+"Q7r-3u-pw6.text" = "PHOTOS";
+
+/* Class = "IBUIButton"; normalTitle = "Facebook"; ObjectID = "QPb-Nn-c95"; */
+"QPb-Nn-c95.normalTitle" = "Facebook";
+
+/* Class = "IBUITextField"; placeholder = "User name"; ObjectID = "Qli-Mt-7gi"; */
+"Qli-Mt-7gi.placeholder" = "User name";
+
+/* Class = "IBUIButton"; normalTitle = "  Mail Login"; ObjectID = "RLg-1s-W6r"; */
+"RLg-1s-W6r.normalTitle" = "  Mail Login";
+
+/* Class = "IBUILabel"; text = "MISS"; ObjectID = "ReT-1X-4pU"; */
+"ReT-1X-4pU.text" = "MISS";
+
+/* Class = "IBUILabel"; text = "Tutorial"; ObjectID = "Rsr-i6-sfX"; */
+"Rsr-i6-sfX.text" = "Tutorial";
+
+/* Class = "IBUITextField"; placeholder = "Confirm Password"; ObjectID = "S6j-H9-IrY"; */
+"S6j-H9-IrY.placeholder" = "Confirm Password";
+
+/* Class = "IBUILabel"; text = "Would you like to be the\nfirst Miss?"; ObjectID = "SMd-0L-Z1G"; */
+"SMd-0L-Z1G.text" = "Would you like to be the\nfirst Miss?";
+
+/* Class = "IBUILabel"; text = "Invite with..."; ObjectID = "STS-3z-pcD"; */
+"STS-3z-pcD.text" = "Invite with...";
+
+/* Class = "IBUITextField"; placeholder = "Name Surname"; ObjectID = "SVd-x2-b3i"; */
+"SVd-x2-b3i.placeholder" = "Name Surname";
+
+/* Class = "IBUIButton"; normalTitle = "Privacy"; ObjectID = "SZh-Cn-eUO"; */
+"SZh-Cn-eUO.normalTitle" = "Privacy";
+
+/* Class = "IBUIButton"; normalTitle = "YES"; ObjectID = "SbR-og-K74"; */
+"SbR-og-K74.normalTitle" = "YES";
+
+/* Class = "IBUILabel"; text = "Mar 2012"; ObjectID = "TPd-QC-nPb"; */
+"TPd-QC-nPb.text" = "Mar 2012";
+
+/* Class = "IBUILabel"; text = "Tutorial"; ObjectID = "TlA-PW-hZr"; */
+"TlA-PW-hZr.text" = "Tutorial";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "U0e-lI-bob"; */
+"U0e-lI-bob.text" = "Label";
+
+/* Class = "IBUILabel"; text = "230"; ObjectID = "URi-Yt-sL8"; */
+"URi-Yt-sL8.text" = "230";
+
+/* Class = "IBUIButton"; normalTitle = "  Login"; ObjectID = "Uhw-61-COc"; */
+"Uhw-61-COc.normalTitle" = "  Login";
+
+/* Class = "IBUILabel"; text = "username"; ObjectID = "V8K-UJ-nkY"; */
+"V8K-UJ-nkY.text" = "username";
+
+/* Class = "IBUILabel"; text = "3"; ObjectID = "VWs-k2-puF"; */
+"VWs-k2-puF.text" = "3";
+
+/* Class = "IBUITextField"; placeholder = "Last Name"; ObjectID = "VkK-lS-wfT"; */
+"VkK-lS-wfT.placeholder" = "Last Name";
+
+/* Class = "IBUILabel"; text = "23d 22h 45m"; ObjectID = "WBC-Vj-dRC"; */
+"WBC-Vj-dRC.text" = "23d 22h 45m";
+
+/* Class = "IBUILabel"; text = "Share"; ObjectID = "WeT-gr-e6c"; */
+"WeT-gr-e6c.text" = "Share";
+
+/* Class = "IBUITextField"; placeholder = "City"; ObjectID = "WhE-C4-I6E"; */
+"WhE-C4-I6E.placeholder" = "City";
+
+/* Class = "IBUILabel"; text = "Roberta Blaine"; ObjectID = "Wqa-aa-DiM"; */
+"Wqa-aa-DiM.text" = "Roberta Blaine";
+
+/* Class = "IBUIButton"; normalTitle = " MALE"; ObjectID = "X9c-g1-29m"; */
+"X9c-g1-29m.normalTitle" = " MALE";
+
+/* Class = "IBUILabel"; text = "Invite your friends!"; ObjectID = "XrC-OB-OoE"; */
+"XrC-OB-OoE.text" = "Invite your friends!";
+
+/* Class = "IBUILabel"; text = "LOGIN"; ObjectID = "Xrk-J4-JwS"; */
+"Xrk-J4-JwS.text" = "LOGIN";
+
+/* Class = "IBUILabel"; text = "TheMiss contest has just started."; ObjectID = "Y7X-QV-COS"; */
+"Y7X-QV-COS.text" = "TheMiss contest has just started.";
+
+/* Class = "IBUILabel"; text = "Comment"; ObjectID = "ZUx-jz-QRk"; */
+"ZUx-jz-QRk.text" = "Comment";
+
+/* Class = "IBUILabel"; text = "Vote"; ObjectID = "ZVJ-1n-VFQ"; */
+"ZVJ-1n-VFQ.text" = "Vote";
+
+/* Class = "IBUIButton"; normalTitle = "Mail Login"; ObjectID = "ZWA-wR-Q9P"; */
+"ZWA-wR-Q9P.normalTitle" = "Mail Login";
+
+/* Class = "IBUIButton"; normalTitle = "Deactivate Account"; ObjectID = "ZqG-Mq-Ezm"; */
+"ZqG-Mq-Ezm.normalTitle" = "Deactivate Account";
+
+/* Class = "IBUIButton"; normalTitle = "Invite"; ObjectID = "aGn-R0-DdZ"; */
+"aGn-R0-DdZ.normalTitle" = "Invite";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "aZD-02-9tm"; */
+"aZD-02-9tm.text" = "0";
+
+/* Class = "IBUILabel"; text = "SIGNUP"; ObjectID = "aj1-XT-kEc"; */
+"aj1-XT-kEc.text" = "SIGNUP";
+
+/* Class = "IBUILabel"; text = "Admin"; ObjectID = "bbS-0K-dJf"; */
+"bbS-0K-dJf.text" = "Admin";
+
+/* Class = "IBUILabel"; text = "has shared one of your"; ObjectID = "bee-Ca-Yxq"; */
+"bee-Ca-Yxq.text" = "has shared one of your";
+
+/* Class = "IBUILabel"; text = "ARE YOU BOY?"; ObjectID = "cFm-Yg-dsi"; */
+"cFm-Yg-dsi.text" = "ARE YOU BOY?";
+
+/* Class = "IBUILabel"; text = "SELFIE"; ObjectID = "cdy-Kr-H6A"; */
+"cdy-Kr-H6A.text" = "SELFIE";
+
+/* Class = "IBUIButton"; normalTitle = "  Settings"; ObjectID = "ctI-es-IwZ"; */
+"ctI-es-IwZ.normalTitle" = "  Settings";
+
+/* Class = "IBUILabel"; text = "Time"; ObjectID = "d8A-nB-Z3K"; */
+"d8A-nB-Z3K.text" = "Time";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot Password"; ObjectID = "d9R-r4-wEb"; */
+"d9R-r4-wEb.normalTitle" = "Forgot Password";
+
+/* Class = "IBUIButton"; normalTitle = "Rules and Privacy"; ObjectID = "dbo-hu-uiY"; */
+"dbo-hu-uiY.normalTitle" = "Rules and Privacy";
+
+/* Class = "IBUILabel"; text = "Facebook Album"; ObjectID = "drd-Sy-yz7"; */
+"drd-Sy-yz7.text" = "Facebook Album";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "eVD-1C-aEM"; */
+"eVD-1C-aEM.text" = "0";
+
+/* Class = "IBUILabel"; text = "LOGIN"; ObjectID = "ea4-NN-LHQ"; */
+"ea4-NN-LHQ.text" = "LOGIN";
+
+/* Class = "IBUILabel"; text = "09:53:28:20"; ObjectID = "eyd-LV-LCn"; */
+"eyd-LV-LCn.text" = "09:53:28:20";
+
+/* Class = "IBUILabel"; text = "User name"; ObjectID = "fSJ-Mi-4jI"; */
+"fSJ-Mi-4jI.text" = "User name";
+
+/* Class = "IBUILabel"; text = "Vote"; ObjectID = "fqx-Af-Fg0"; */
+"fqx-Af-Fg0.text" = "Vote";
+
+/* Class = "IBUILabel"; text = "Roberta Blaine"; ObjectID = "frw-5K-uWL"; */
+"frw-5K-uWL.text" = "Roberta Blaine";
+
+/* Class = "IBUILabel"; text = "POSITION"; ObjectID = "fux-Gz-FrK"; */
+"fux-Gz-FrK.text" = "POSITION";
+
+/* Class = "IBUILabel"; text = "Share"; ObjectID = "fyK-KL-ryg"; */
+"fyK-KL-ryg.text" = "Share";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "hik-v8-tiC"; */
+"hik-v8-tiC.text" = "192";
+
+/* Class = "IBUIButton"; normalTitle = "Add photo"; ObjectID = "hru-Kw-qua"; */
+"hru-Kw-qua.normalTitle" = "Add photo";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "hxF-XY-qg8"; */
+"hxF-XY-qg8.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Profile Photo"; ObjectID = "iYM-ml-8xS"; */
+"iYM-ml-8xS.text" = "Profile Photo";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "ib5-1z-OCR"; */
+"ib5-1z-OCR.text" = "Label";
+
+/* Class = "IBUILabel"; text = "VOTE YOUR MISS"; ObjectID = "ict-1g-BIu"; */
+"ict-1g-BIu.text" = "VOTE YOUR MISS";
+
+/* Class = "IBUIButton"; normalTitle = "Login with Facebook"; ObjectID = "j5j-4r-ahP"; */
+"j5j-4r-ahP.normalTitle" = "Login with Facebook";
+
+/* Class = "IBUILabel"; text = "Rules and Privacy"; ObjectID = "j62-0l-gia"; */
+"j62-0l-gia.text" = "Rules and Privacy";
+
+/* Class = "IBUIButton"; normalTitle = "  Mail Signup"; ObjectID = "jNY-oh-DAf"; */
+"jNY-oh-DAf.normalTitle" = "  Mail Signup";
+
+/* Class = "IBUIButton"; normalTitle = "username"; ObjectID = "jQT-R6-cY0"; */
+"jQT-R6-cY0.normalTitle" = "username";
+
+/* Class = "IBUIButton"; normalTitle = "Tutorial"; ObjectID = "jb1-PH-dO0"; */
+"jb1-PH-dO0.normalTitle" = "Tutorial";
+
+/* Class = "IBUIButton"; normalTitle = "following"; ObjectID = "jpZ-kG-f5y"; */
+"jpZ-kG-f5y.normalTitle" = "following";
+
+/* Class = "IBUIButton"; normalTitle = "Change"; ObjectID = "kad-NF-QCC"; */
+"kad-NF-QCC.normalTitle" = "Change";
+
+/* Class = "IBUIButton"; normalTitle = "Logout"; ObjectID = "kjN-uM-HQ1"; */
+"kjN-uM-HQ1.normalTitle" = "Logout";
+
+/* Class = "IBUIButton"; normalTitle = "Prizes"; ObjectID = "ldf-pV-qdu"; */
+"ldf-pV-qdu.normalTitle" = "Prizes";
+
+/* Class = "IBUILabel"; text = "Get your inspiration from videos and photos of the Testimonial 2014 and...snap your PERFECT SELFIE!!"; ObjectID = "lfI-pg-BAq"; */
+"lfI-pg-BAq.text" = "Get your inspiration from videos and photos of the Testimonial 2014 and...snap your PERFECT SELFIE!!";
+
+/* Class = "IBUILabel"; text = "Roberta Blaine"; ObjectID = "m7e-tc-aTh"; */
+"m7e-tc-aTh.text" = "Roberta Blaine";
+
+/* Class = "IBUIButton"; normalTitle = "Rules and Privacy"; ObjectID = "mAO-uU-VKL"; */
+"mAO-uU-VKL.normalTitle" = "Rules and Privacy";
+
+/* Class = "IBUIButton"; normalTitle = " FEMALE"; ObjectID = "mBR-2z-moA"; */
+"mBR-2z-moA.normalTitle" = " FEMALE";
+
+/* Class = "IBUILabel"; text = "Share"; ObjectID = "mC8-hg-K8u"; */
+"mC8-hg-K8u.text" = "Share";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "mWV-gg-aXt"; */
+"mWV-gg-aXt.placeholder" = "Email";
+
+/* Class = "IBUITextField"; placeholder = "New Password"; ObjectID = "meS-UW-wy8"; */
+"meS-UW-wy8.placeholder" = "New Password";
+
+/* Class = "IBUILabel"; text = "Photo Sampler"; ObjectID = "mfa-ab-XlR"; */
+"mfa-ab-XlR.text" = "Photo Sampler";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "n1k-CJ-cfs"; */
+"n1k-CJ-cfs.text" = "192";
+
+/* Class = "IBUILabel"; text = "Camera"; ObjectID = "n2B-g4-9pU"; */
+"n2B-g4-9pU.text" = "Camera";
+
+/* Class = "IBUIButton"; normalTitle = "LOGIN"; ObjectID = "n4G-xO-TMh"; */
+"n4G-xO-TMh.normalTitle" = "LOGIN";
+
+/* Class = "IBUIButton"; normalTitle = "S I G N U P"; ObjectID = "n7Y-p1-uMa"; */
+"n7Y-p1-uMa.normalTitle" = "S I G N U P";
+
+/* Class = "IBUITextField"; placeholder = "Confirm Password"; ObjectID = "nGy-ZB-wPX"; */
+"nGy-ZB-wPX.placeholder" = "Confirm Password";
+
+/* Class = "IBUILabel"; text = "Contacts"; ObjectID = "nHN-aU-9ZC"; */
+"nHN-aU-9ZC.text" = "Contacts";
+
+/* Class = "IBUIButton"; normalTitle = "Rules and Privacy"; ObjectID = "nMG-DP-e1K"; */
+"nMG-DP-e1K.normalTitle" = "Rules and Privacy";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "o2Z-iQ-6bG"; */
+"o2Z-iQ-6bG.text" = "192";
+
+/* Class = "IBUILabel"; text = "SIGNUP AND VOTE YOUR MISS"; ObjectID = "oXi-oZ-kVh"; */
+"oXi-oZ-kVh.text" = "SIGNUP AND VOTE YOUR MISS";
+
+/* Class = "IBUITextField"; placeholder = "First Name"; ObjectID = "osc-Tp-Ahs"; */
+"osc-Tp-Ahs.placeholder" = "First Name";
+
+/* Class = "IBUILabel"; text = "Related articles"; ObjectID = "pHd-QS-bGN"; */
+"pHd-QS-bGN.text" = "Related articles";
+
+/* Class = "IBUILabel"; text = "Do you want to become famous?\nSign up!"; ObjectID = "pNT-rb-O25"; */
+"pNT-rb-O25.text" = "Do you want to become famous?\nSign up!";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "pdu-1I-cUq"; */
+"pdu-1I-cUq.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Vote"; ObjectID = "pmR-gb-HmF"; */
+"pmR-gb-HmF.text" = "Vote";
+
+/* Class = "IBUIButton"; normalTitle = "Contacts"; ObjectID = "pnw-Ax-kCw"; */
+"pnw-Ax-kCw.normalTitle" = "Contacts";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "qFQ-pb-hO7"; */
+"qFQ-pb-hO7.text" = "192";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "qJ6-bF-kqz"; */
+"qJ6-bF-kqz.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Login with Facebook"; ObjectID = "qaj-ni-iII"; */
+"qaj-ni-iII.normalTitle" = "Login with Facebook";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "rBe-7x-hoz"; */
+"rBe-7x-hoz.text" = "192";
+
+/* Class = "IBUIButton"; normalTitle = "SAVE"; ObjectID = "rI8-Z9-kMe"; */
+"rI8-Z9-kMe.normalTitle" = "SAVE";
+
+/* Class = "IBUIButton"; normalTitle = "SEND"; ObjectID = "rZj-S3-bMe"; */
+"rZj-S3-bMe.normalTitle" = "SEND";
+
+/* Class = "IBUIButton"; normalTitle = "  Settings"; ObjectID = "rcZ-8a-g3w"; */
+"rcZ-8a-g3w.normalTitle" = "  Settings";
+
+/* Class = "IBUILabel"; text = "user name"; ObjectID = "rqM-s2-RBu"; */
+"rqM-s2-RBu.text" = "user name";
+
+/* Class = "IBUILabel"; text = "2012"; ObjectID = "s01-fp-q95"; */
+"s01-fp-q95.text" = "2012";
+
+/* Class = "IBUILabel"; text = "23"; ObjectID = "s2d-yt-rES"; */
+"s2d-yt-rES.text" = "23";
+
+/* Class = "IBUILabel"; text = "Instagram"; ObjectID = "shs-MG-cJ7"; */
+"shs-MG-cJ7.text" = "Instagram";
+
+/* Class = "IBUIButton"; normalTitle = "Tutorial"; ObjectID = "tN9-g9-IYc"; */
+"tN9-g9-IYc.normalTitle" = "Tutorial";
+
+/* Class = "IBUIButton"; normalTitle = "FEMALE"; ObjectID = "tOU-K7-fAm"; */
+"tOU-K7-fAm.normalTitle" = "FEMALE";
+
+/* Class = "IBUIButton"; normalTitle = "Import"; ObjectID = "thT-8z-pG1"; */
+"thT-8z-pG1.normalTitle" = "Import";
+
+/* Class = "IBUIButton"; normalTitle = "Language"; ObjectID = "twm-Nz-Nhg"; */
+"twm-Nz-Nhg.normalTitle" = "Language";
+
+/* Class = "IBUIButton"; normalTitle = "SIGNUP"; ObjectID = "u6b-SZ-hV3"; */
+"u6b-SZ-hV3.normalTitle" = "SIGNUP";
+
+/* Class = "IBUIButton"; normalTitle = "S I G N U P"; ObjectID = "u93-om-DaA"; */
+"u93-om-DaA.normalTitle" = "S I G N U P";
+
+/* Class = "IBUILabel"; text = "Are you sure to\ndeactivate?"; ObjectID = "uQi-kb-Q6n"; */
+"uQi-kb-Q6n.text" = "Are you sure to\ndeactivate?";
+
+/* Class = "IBUILabel"; text = "23d 22h 45m"; ObjectID = "v0e-N3-oWL"; */
+"v0e-N3-oWL.text" = "23d 22h 45m";
+
+/* Class = "IBUILabel"; text = "192"; ObjectID = "vBk-B8-gFZ"; */
+"vBk-B8-gFZ.text" = "192";
+
+/* Class = "IBUILabel"; text = "photo"; ObjectID = "vGe-Mc-WMm"; */
+"vGe-Mc-WMm.text" = "photo";
+
+/* Class = "IBUIButton"; normalTitle = "  Deactivate"; ObjectID = "w90-O5-xGX"; */
+"w90-O5-xGX.normalTitle" = "  Deactivate";
+
+/* Class = "IBUILabel"; text = "FAQ"; ObjectID = "wRV-xU-3b6"; */
+"wRV-xU-3b6.text" = "FAQ";
+
+/* Class = "IBUILabel"; text = "WIN THE IPHONE 5s!"; ObjectID = "wp4-Sv-iGd"; */
+"wp4-Sv-iGd.text" = "WIN THE IPHONE 5s!";
+
+/* Class = "IBUIButton"; normalTitle = "  Password Reset"; ObjectID = "wxf-Rf-mNH"; */
+"wxf-Rf-mNH.normalTitle" = "  Password Reset";
+
+/* Class = "IBUIButton"; normalTitle = "Instagram"; ObjectID = "wyr-Gc-pJU"; */
+"wyr-Gc-pJU.normalTitle" = "Instagram";
+
+/* Class = "IBUILabel"; text = "The only Social Contest that allow you to be famous"; ObjectID = "xAZ-aT-fxm"; */
+"xAZ-aT-fxm.text" = "The only Social Contest that allow you to be famous";
+
+/* Class = "IBUILabel"; text = "Share"; ObjectID = "xNx-MU-ZHa"; */
+"xNx-MU-ZHa.text" = "Share";
+
+/* Class = "IBUILabel"; text = "Vote"; ObjectID = "xlP-KS-2e8"; */
+"xlP-KS-2e8.text" = "Vote";
+
+/* Class = "IBUIButton"; normalTitle = "LOGOUT"; ObjectID = "yPK-fC-NtR"; */
+"yPK-fC-NtR.normalTitle" = "LOGOUT";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "yr3-SD-VVd"; */
+"yr3-SD-VVd.normalTitle" = "Delete";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "yte-vo-cZn"; */
+"yte-vo-cZn.normalTitle" = "Delete";
+
+/* Class = "IBUIButton"; normalTitle = "Add photo"; ObjectID = "ywq-hz-87S"; */
+"ywq-hz-87S.normalTitle" = "Add photo";
+
+/* Class = "IBUITextField"; placeholder = "Confirm Password"; ObjectID = "z2Z-zq-YhR"; */
+"z2Z-zq-YhR.placeholder" = "Confirm Password";
+
+/* Class = "IBUILabel"; text = "345/"; ObjectID = "zC0-Gn-uxw"; */
+"zC0-Gn-uxw.text" = "345/";
+
+/* Class = "IBUILabel"; text = "VOTES"; ObjectID = "zSP-8n-8vo"; */
+"zSP-8n-8vo.text" = "VOTES";
+
+/* Class = "IBUILabel"; text = "Vote"; ObjectID = "zU4-0u-YcD"; */
+"zU4-0u-YcD.text" = "Vote";
+
+/* Class = "IBUILabel"; text = "Miss Sep 2013"; ObjectID = "zcP-8C-5j5"; */
+"zcP-8C-5j5.text" = "Miss Sep 2013";

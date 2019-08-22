@@ -1,0 +1,144 @@
+/* 
+  Localizable.strings
+  TheMiss
+
+  Created by lion on 6/19/14.
+  Copyright (c) 2014 Arsan. All rights reserved.
+*/
+
+
+"date" = "d";
+
+//menu
+"account" = "ACCOUNT";
+"invite_friends" = "INVITA AMICI";
+"import_pictures" = "CARICA FOTO";
+"settings" = "IMPOSTAZIONI";
+"the_contest" = "IL CONTEST";
+"prizes" = "Premi";
+"tutorial" = "Tutorial";
+"rules_and_privacy" = "Regolamento e Privacy";
+"help" = "AIUTO";
+"faq" = "Domande frequenti";
+"contacts" = "Contatti";
+
+//settings
+"logout" = "ESCI";
+"english" = "English";
+"italian" = "Italian";
+"cant_disconnect_from_facebook" = "You can't disconnect from Facebook in this account.";
+"cant_disconnect_from_instagram" = "You can't disconnect from Instagram in this account.";
+"unlinking" = "Unlinking...";
+"linking" = "Linking...";
+"saving" = "Salvataggio in corso...";
+"password_not_match" = "Password doesn't match.";
+"user_saved_successfully" = "Impostazioni salvate con successo.";
+"unknown_server_error" = "Unknown server error.";
+"description" = "Descrizione";
+
+//home
+"home_last_pictures" = "ULTIME\nFOTO";
+"home_miss_of_month" = "MISS DEL\nMESE";
+"home_the_winners" = "LE\nVINCITRICI";
+"refreshing" = "Refreshing...";
+"vote" = "Vota";
+"share" = "Condividi";
+"report_inappropriate" = "Segnala come inappropriato";
+"delete" = "Cancella";
+"cancel" = "Annulla";
+"report_success" = "Grazie per aver segnalato questa foto al nostro Staff.";
+"confirm_deleting" = "Confirm deleting";
+"delete_this_picture" = "Are you sure to delete this picture?";
+"deleting" = "Deleting...";
+"you_must_set_gender" = "You must set gender in settings page.";
+"share_on_facebook" = "Condividi su Facebook";
+"share_on_whatsapp" = "Condividi su Whatsapp";
+"share_to" = "Condividi con...";
+"shared_successfully" = "Condiviso con successo!";
+"sharing_cancelled" = "Condivisione annullata.";
+"share_message_first" = "Anche";
+"share_message_end" = " è su The Miss! Votala e aiutala a diventare Famosa!";
+"INVITE" = "I N V I T A";
+"SIGNUP" = "ISCRIVITI";
+
+//landing
+"female" = "FEMINA";
+"male" = "MASCHIO";
+"signup_agree_message" = "Registrandoti accetti il Regolamento e le condizioni d'uso del servizio";
+"signup_terms_and_conditions" = "condizioni d'uso del servizio";
+"loggingIn" = "Logging In...";
+"signing_up" = "Signing Up...";
+"login_error" = "Login Error.";
+"signup_error" = "Signup Error.";
+"this_instagram_already" = "This Instagram account is already registered.";
+"email" = "Email";
+"password" = "Password";
+"wrong_username" = "Wrong username or password.";
+"user_name" = "Username";
+"password_not_match" = "Password doesn't match.";
+"cant_be_empty" = " can't be empty value";
+"username_exists" = "Error. Username or Email may be already exists.";
+"check_your_email" = "Please check your email.";
+"that_email_not_register" = "That email was not be registered or unknown error.";
+"activating" = "Activating...";
+"deactivating" = "Deactivating...";
+
+//import
+"from_album" = "Album";
+"from_camera" = "Fotocamera";
+"select_image" = "Seleziona immagine";
+"uploading" = "Caricamento in corso...";
+"uploaded_successfully" = "Immagine caricata con successo!";
+"loading" = "Loading...";
+"connected_as" = "Connesso con ";
+
+//invite
+"invite_subject" = "TheMiss";
+"invite_message" = "SCARICA l'app The Miss o vai su themiss.tv\n\n DONNA: carica le tue foto e diventa famosa!\n UOMO: invita la ragazza dei tuoi sogni e sostieni la tua Miss preferita!";
+
+//profile
+"following" = "FAN";
+"follow_me" = "DIVENTA FAN";
+"edit" = "Modifica Profilo";
+"followed_successfully" = "Ora sei Fan.";
+"top_positions" = "Le posizioni sono la somma di voti, condivisioni e commenti";
+"is_following_you" = "ha iniziato a seguirti.";
+
+//FAQ
+"faq_topic1" = "1) Cos'è themiss.tv?";
+"faq_topic2" = "2) Chi può partecipare a The Miss?";
+"faq_topic3" = "3) Come caricare le foto?";
+"faq_topic4" = "4) Come devono essere le foto?";
+"faq_topic5" = "5) Cosa ottieni partecipando al contest?";
+"faq_topic6" = "6) Cosa vinco?";
+"faq_topic7" = "7) Se non mi piace The Miss, posso eliminare l'account?";
+
+"faq_content1" = "The Miss è il social contest nato per rivoluzionare il settore della moda e dello spettacolo attraverso un metodo innovativo di selezione delle partecipanti.";
+
+"faq_content2" = "LEI: sei hai un’età compresa tra i 16 e 35 anni, di qualsiasi nazionalità e provenienza. Non ci sono limiti estetici, di altezza e di taglia tali da pregiudicarne la partecipazione. \n\nLUI: puoi partecipare a The Miss, votando, condividendo e commentando le tue foto preferite. Inoltre, puoi invitare tutte le ragazze che vorresti partecipassero.";
+
+"faq_content3" = "Puoi caricare le tue foto cliccando il tasto + nel menù in alto, importarle dal tuo account personale Facebook, Instagram oppure direttamente dal tuo smartphone.";
+
+"faq_content4" = "Puoi trarre ispirazione dal Photo Sampler del sito. Devi dare precedenza al Selfie, anche se puoi farti scattare una foto da un'altra persona. \n\nL’importante è che non siano foto professionali. Per assicurare una maggiore trasparenza della piattaforma, ti richiediamo di farti una foto con un foglio con su scritto il tuo nome, la scritta “The Miss” e di pubblicarla su www.themiss.tv. \n\nPuoi caricare quante foto vuoi, non esiste alcun limite!";
+
+"faq_content5" = "Postando le tue foto con una certa frequenza (4/5 al giorno) e condividendole con i tuoi amici, ti crei una popolarità partendo da zero. \n\nSpargi la voce il più possibile e au¬¬menta il tuo numero di Fan! \n\nCon The Miss crei il tuo book di foto senza alcun costo, perché sei tu che per la prima volta scegli come apparire, quanto apparire e soprattutto dal luogo che preferisci.";
+
+"faq_content6" = "Ottieni il Titolo di Miss del Mese e vinci il premio in palio che ti verrà recapitato direttamente nel luogo da te indicato. \n\nUna volta ricevuto, scatta una foto del premio e caricala su The Miss, in modo da rendere la procedura il più visibile e trasparente possibile. \n\nA fine anno entrerai di diritto nel calendario di The Miss come vincitrice del mese.";
+
+"faq_content7" = "Puoi eliminare il tuo account dal Menù Impostazioni, in qualunque momento e senza alcun costo.";
+
+//contacts
+"report_problem" = "Segnala un problema";
+"send_suggestion" = "Invia un suggerimento";
+"business_press" = "Business/Stampa";
+
+//Notification
+"has_voted_one" = "ha votato una tua";
+"has_shared_one" = "ha condiviso una tua";
+"has_commented_one" = "ha commentato una tua";
+"has_commented_own" = "ha commentato una tua";
+"has_posted_new" = "ha pubblicato una nuova ";
+"photo" = "foto";
+
+//deactivate
+"deactivate_account" = "Elimina Account";

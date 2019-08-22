@@ -1,0 +1,144 @@
+/* 
+  Localizable.strings
+  TheMiss
+
+  Created by lion on 6/19/14.
+  Copyright (c) 2014 Arsan. All rights reserved.
+*/
+
+
+"date" = "d";
+
+//menu
+"account" = "ACCOUNT";
+"invite_friends" = "INVITE FRIENDS";
+"import_pictures" = "IMPORT PICTURES";
+"settings" = "SETTINGS";
+"the_contest" = "THE CONTEST";
+"prizes" = "Prizes";
+"tutorial" = "Tutorial";
+"rules_and_privacy" = "Rules and Privacy";
+"help" = "HELP";
+"faq" = "Faq";
+"contacts" = "Contacts";
+
+//settings
+"logout" = "Logout";
+"english" = "English";
+"italian" = "Italian";
+"cant_disconnect_from_facebook" = "You can't disconnect from Facebook in this account.";
+"cant_disconnect_from_instagram" = "You can't disconnect from Instagram in this account.";
+"unlinking" = "Unlinking...";
+"linking" = "Linking...";
+"saving" = "Saving...";
+"password_not_match" = "Password doesn't match.";
+"user_saved_successfully" = "User information saved successfullly.";
+"unknown_server_error" = "Unknown server error.";
+"description" = "Description";
+
+//home
+"home_last_pictures" = "LAST\nPICTURES";
+"home_miss_of_month" = "MISS OF\nTHE MONTH";
+"home_the_winners" = "THE\nWINNERS";
+"refreshing" = "Refreshing...";
+"vote" = "Vote";
+"share" = "Share";
+"report_inappropriate" = "Report Inappropriate";
+"delete" = "Delete";
+"cancel" = "Cancel";
+"report_success" = "Thank you, this picture has been reported to the staff.";
+"confirm_deleting" = "Confirm deleting";
+"delete_this_picture" = "Are you sure to delete this picture?";
+"deleting" = "Deleting...";
+"you_must_set_gender" = "You must set gender in settings page.";
+"share_on_facebook" = "Share on Facebook";
+"share_on_whatsapp" = "Share on Whatsapp";
+"share_to" = "Share to...";
+"shared_successfully" = "Shared successfully!";
+"sharing_cancelled" = "Sharing cancelled";
+"share_message_first" = "Also";
+"share_message_end" = "is on The Miss! Vote and help her to become Famous!";
+"INVITE" = "I N V I T E";
+"SIGNUP" = "S I G N U P";
+
+//landing
+"female" = "FEMALE";
+"male" = "MALE";
+"signup_agree_message" = "By signing up, you agree to our";
+"signup_terms_and_conditions" = "terms and conditions";
+"loggingIn" = "Logging In...";
+"signing_up" = "Signing Up...";
+"login_error" = "Login Error.";
+"signup_error" = "Signup Error.";
+"this_instagram_already" = "This Instagram account is already registered.";
+"email" = "Email";
+"password" = "Password";
+"wrong_username" = "Wrong username or password.";
+"user_name" = "Username";
+"password_not_match" = "Password doesn't match.";
+"cant_be_empty" = " can't be empty value";
+"username_exists" = "Error. Username or Email may be already exists.";
+"check_your_email" = "Please check your email.";
+"that_email_not_register" = "That email was not be registered or unknown error.";
+"activating" = "Activating...";
+"deactivating" = "Deactivating...";
+
+//import
+"from_album" = "from Album";
+"from_camera" = "from Camera";
+"select_image" = "Select image";
+"uploading" = "Uploading...";
+"uploaded_successfully" = "Image uploaded successfully";
+"loading" = "Loading...";
+"connected_as" = "connected as";
+
+//invite
+"invite_subject" = "TheMiss";
+"invite_message" = "DOWNLOAD The Miss App or go to themiss.tv\n\nWOMAN:upload your pictures and become famous!\nMAN:invite your dream's girl and support your favorite";
+
+//profile
+"following" = "FOLLOWING";
+"follow_me" = "FOLLOW ME";
+"edit" = "EDIT";
+"followed_successfully" = "Followed successfully.";
+"top_positions" = "Top positions are the sum of votes, shares and comments";
+"is_following_you" = "is following you.";
+
+//FAQ
+"faq_topic1" = "1) What is themiss.tv?";
+"faq_topic2" = "2) Who can apply for TheMiss?";
+"faq_topic3" = "3) How can I upload the pictures?";
+"faq_topic4" = "4) Which kind of pictures can I upload?";
+"faq_topic5" = "5) What do I obtain if I participate to the contest?";
+"faq_topic6" = "6) What do I win?";
+"faq_topic7" = "7) If I do not like The Miss, can I remove my account?";
+
+"faq_content1" = "The Miss is the social contest created in order to rebuild the fashion and show business, thanks to an innovative tool for the selection of participants.";
+
+"faq_content2" = "SHE: should you are aged between 16 and 35 years old, of any nationality and origin. No physical requirements related to size or height are requested or compromise the participation. \n\nHE: You can participate at The Miss by voting, sharing and commenting your favourite photos. In addition, you can invite all the girls you would like to see them participate in the contest.";
+
+"faq_content3" = "You can upload your pictures clicking on the button + in the menu in the high part of the screen and you can import them from your personal account on Facebook and Instagram or from your smartphone.";
+
+"faq_content4" = "You can be inspired by the Photo Sampler on the web site. You must give priority to Selfie, but you can also upload a picture of yourself taken by another person.\n\nIt is important that no professional photos will be uploaded. In order to guarantee more transparency to the platform, we ask you to take a picture with a paper containing your name and the writing “The Miss”.\n\nYou can upload as much photos as you want, there are no amount limits.";
+
+"faq_content5" = "Posting your pictures frequently (4-5 times per day) and sharing them with your friends you will create your fame starting from nothing.";
+
+"faq_content6" = "You win the award of “Miss of the Month” and you win the prize issued. This will be sent directly to the place you have communicated before. \n\nOnce the prize has been received, you must take a picture with it and upload the photo on The Miss, in order to make the process as visible and transparent as possible. \n\nAt the end of the year you will have the right to be part of The Miss calendar as winner of the month.";
+
+"faq_content7" = "You can remove your account, at any time and free of charge, from the Settings menu.";
+
+//contacts
+"report_problem" = "Report a problem";
+"send_suggestion" = "Send a suggestion";
+"business_press" = "Business/Press";
+
+//Notification
+"has_voted_one" = "has voted one of your";
+"has_shared_one" = "has shared one of your";
+"has_commented_one" = "has commented one of your";
+"has_commented_own" = "has commented one of her own";
+"has_posted_new" = "has posted new";
+"photo" = "photo";
+
+//deactivate
+"deactivate_account" = "Deactivate Account";
